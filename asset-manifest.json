@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/alanls.github.io/static/css/main.294eab11.css",
+    "main.js": "/alanls.github.io/static/js/main.4f402825.js",
+    "static/media/building.png": "/alanls.github.io/static/media/building.0e1f8d30859da52c2270.png",
+    "static/media/pagina_de_filmes.jpeg": "/alanls.github.io/static/media/pagina_de_filmes.2d1d71394d9348875c1f.jpeg",
+    "static/media/greet.png": "/alanls.github.io/static/media/greet.6284779c47de8ec24e63.png",
+    "static/media/netflix.jpeg": "/alanls.github.io/static/media/netflix.dbf30c6e98e33b5d1c10.jpeg",
+    "static/media/loja.png": "/alanls.github.io/static/media/loja.a264e686707a16d77689.png",
+    "static/media/self.jpg": "/alanls.github.io/static/media/self.22588959b6f293f492fb.jpg",
+    "index.html": "/alanls.github.io/index.html",
+    "main.294eab11.css.map": "/alanls.github.io/static/css/main.294eab11.css.map",
+    "main.4f402825.js.map": "/alanls.github.io/static/js/main.4f402825.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.294eab11.css",
+    "static/js/main.4f402825.js"
+  ]
+}
