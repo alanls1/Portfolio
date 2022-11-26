@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://alanls.1.github.io/alanls.github.io",
+  "homepage": "https://alanls1/alanls.github.io",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
