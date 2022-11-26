@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Marker+Hatch&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Rubik Marker Hatch', cursive;
+  word-spacing: 0.2em;
+  color: white;
+  background-color:	#080808;
+
+}
+
+
+header{
+  overflow-x: hidden;
+  box-shadow: 10px 10px 10px #101010;
+  position: sticky;
+  top: 0;
+
+}
+
+
+.arrowUp{
+  width: 30px;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+@media screen and (max-width: 1140px) {
+  .container {
+    margin: 2em ;
+  }
+}
+
+
+
+
+
+
+
