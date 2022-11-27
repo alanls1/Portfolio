@@ -8,7 +8,10 @@
     align-items: center;
     
 }
-
+.menu{
+    display: none;
+    margin-right: 1em;
+}
 
 .navbar--ul{
     width: 300px;
@@ -25,4 +28,6 @@
     transition: 1s;
     border-bottom: 3px solid blue;
 }
+
+
 

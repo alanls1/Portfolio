@@ -14,14 +14,14 @@
 body::-webkit-scrollbar {
   width: 12px;              
 }
-
 body::-webkit-scrollbar-track {
-  background: #080808;    
+  background: #686565;    
   border-radius: 20px;       
-  border: 3px solid #101010;  
+  border: 5px solid #101010;  
 }
 
 header{
+  width: 100%;
   overflow-x: hidden;
   box-shadow: 10px 10px 10px #101010;
   position: sticky;

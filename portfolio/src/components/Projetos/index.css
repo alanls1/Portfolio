@@ -12,6 +12,7 @@
     flex-wrap: wrap;
     align-items: center;
 }
+
 .projects img{
     width: 400px;
     height: 200px;
@@ -40,6 +41,7 @@
 }
 
 .projects a{
+    text-decoration: none;
     border: 1px solid;
     margin-top: 10px;
     padding: 0.5em 1em;
@@ -48,7 +50,7 @@
 }
 
 .projects a:hover {
-    transition: 2s;
+    transition: 1s;
     border: 1px solid blue;
 }
 
@@ -70,11 +72,19 @@
     }
 }
 
-@media (max-width: 1139px) and (min-width: 400px) {
+@media (max-width: 1139px) {
     .projects {
       height: max-content;
       flex-direction: column;
-      padding: 5em 0;
+
     }
     
+}
+
+@media (max-width: 399px){
+    .projects img{
+        width: 300px;
+        height: 200px;
+    
+    }
 }

@@ -23,7 +23,7 @@ export default() => {
                         </p>
                         <p>Tecnologias: HTML, CSS, JavaScript e React.js </p>
                     </div>
-                    <a>
+                    <a target="_blank" href="https://alanls1.github.io/NetFlix_react/">
                         Visualizar
                     </a>
                 </div>
@@ -39,7 +39,7 @@ export default() => {
                         </p>
                         <p>Tecnologias: HTML, CSS, JavaScript e React.js </p>
                     </div>
-                    <a>
+                    <a target="_blank" href="https://alanls1.github.io/filmes/#/">
                         Visualizar
                     </a>
                 </div>
@@ -51,11 +51,11 @@ export default() => {
                     <div  className="title--description">
                         <h3>Loja</h3>
                         <p>
-                            Loja com um carrinho de compras, que adiciona, remove e edita o produto.
+                            Loja que adiciona um produto ao carrinho.
                         </p>
                         <p>Tecnologias: HTML, CSS e JavaScript </p>
                     </div>
-                    <a>
+                    <a target="_blank" href="https://alanls1.github.io/loja/">
                         Visualizar
                     </a>
                 </div>
@@ -74,9 +74,6 @@ export default() => {
                         
                         
                     </div>
-                    <a>
-                        Visualizar
-                    </a>
                 </div>
             </div>
         </div>

@@ -19,8 +19,7 @@
 }
 .self img{
     width: 300px;
-    height: 300px;
-    
+    height: 300px;   
 }
 
 .about--description p{
@@ -41,10 +40,34 @@
         flex-direction: column;
     }
     .about p{
-        font-size:1em;
+        width: 290px;
+        font-size: .8em;
         margin: 0 1em;
     }
-    .self {
-        margin: 5em auto;
+    
+}
+@media (max-width: 399px) {
+    .about {
+        height: max-content;
+        flex-direction: column;
+        padding: 5em 0;
+        margin: auto;
     }
+    .about h2{
+        margin-bottom: .1em;
+    }
+    .about--description{
+        flex-direction: column;
+    }
+    .about p{
+        width: auto;
+        font-size:.8em;
+        margin-top: .8em;
+    }
+    
+    .self img{
+        width: 250px;
+        height: 250px;
+    }
+
 }

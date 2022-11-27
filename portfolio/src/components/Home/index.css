@@ -87,3 +87,24 @@
         width: 400px;
     }
   }
+
+@media (max-width: 399px){
+    .home {
+        flex-direction: column;
+        margin-top: -5em ;
+        padding-bottom: 5em;
+      }
+      .greet{
+          order: 1;
+      }
+      .title{
+          order: 2;
+          width: 310px;
+      }
+      .title h1{
+          font-size: 3em;
+      }
+      .greet{
+          width: 300px;
+      }
+}
