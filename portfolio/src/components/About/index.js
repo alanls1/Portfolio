@@ -17,8 +17,8 @@ export default() => {
 
                 <div>
                     <p>
-                        Olá, meu nome é Alan, tenho 22 anos, apaixonado por games,música e amo aprender coisas novas.  Atualmente estou cursando Ciências da computação segundo semestre na UNIP,
-                        conto com um objetivo de ser um grande profissional na área da tecnologia, contribuindo com a comunidade de dev's e da empresa da qual farei parte, a princípio com grande foco em front-end.
+                        Olá, meu nome é Alan, tenho 22 anos, apaixonado por games,  música e amo aprender coisas novas.  Atualmente estou cursando Ciências da computação segundo semestre na UNIP.
+                        Conto com um objetivo de ser um grande profissional na área da tecnologia, contribuindo com a comunidade de dev's e da empresa da qual farei parte, a princípio com grande foco em front-end.
                         <br/>
 
                         Estudo sobre lógica de programação diariamente, possuo alguns projetos pessoais no GitHub, como forma de experiência.
