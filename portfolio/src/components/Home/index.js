@@ -22,7 +22,7 @@ export default() => {
 
                     <li>
                         <GitHubIcon/>
-                        <a target="_blank" href="https://github.com/alanls1/alanls1" >
+                        <a target="_blank" href="https://github.com/alanls1?tab=repositories" >
                              GitHub
                         </a>
                     </li>
