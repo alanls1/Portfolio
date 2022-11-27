@@ -29,5 +29,9 @@
     border-bottom: 3px solid blue;
 }
 
-
+@media (max-width: 399px){
+    .navbar h1{
+        display: none;
+    }
+}
 
