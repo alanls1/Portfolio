@@ -35,7 +35,7 @@ export default() => {
                     <div className="title--description">
                         <h3>Página de Filmes</h3>
                         <p>
-                            Páginade filmes, que utiliza a API TMDB, com funcionalidades de pesquisa e informação sobre o filme  
+                            Páginade filmes, que utiliza a API TMDB, com possibilidade de pesquisar e ver informação sobre o filme  
                         </p>
                         <p>Tecnologias: HTML, CSS, JavaScript e React.js </p>
                     </div>
