@@ -24,7 +24,7 @@ export default() => {
                         Estudo sobre lógica de programação diariamente, possuo alguns projetos pessoais no GitHub, como forma de experiência.
 
                         <br/>
-                        Tecnologias que utilizo HTML, CSS, JavaScript e React.js.
+                        Tecnologias que utilizo: HTML, CSS, JavaScript e React.js.
                     </p>
                     
                 </div>
