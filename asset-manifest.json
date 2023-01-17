@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.b27d64f7.css",
-    "main.js": "/static/js/main.52cec0f8.js",
-    "static/media/building.png": "/static/media/building.0e1f8d30859da52c2270.png",
+    "main.css": "/static/css/main.c7865e40.css",
+    "main.js": "/static/js/main.09479ad7.js",
     "static/media/pagina_de_filmes.jpeg": "/static/media/pagina_de_filmes.2d1d71394d9348875c1f.jpeg",
     "static/media/greet.png": "/static/media/greet.6284779c47de8ec24e63.png",
     "static/media/netflix.jpeg": "/static/media/netflix.dbf30c6e98e33b5d1c10.jpeg",
     "static/media/loja.png": "/static/media/loja.a264e686707a16d77689.png",
     "static/media/self.jpg": "/static/media/self.22588959b6f293f492fb.jpg",
     "index.html": "/index.html",
-    "main.b27d64f7.css.map": "/static/css/main.b27d64f7.css.map",
-    "main.52cec0f8.js.map": "/static/js/main.52cec0f8.js.map"
+    "main.c7865e40.css.map": "/static/css/main.c7865e40.css.map",
+    "main.09479ad7.js.map": "/static/js/main.09479ad7.js.map"
   },
   "entrypoints": [
-    "static/css/main.b27d64f7.css",
-    "static/js/main.52cec0f8.js"
+    "static/css/main.c7865e40.css",
+    "static/js/main.09479ad7.js"
   ]
 }
